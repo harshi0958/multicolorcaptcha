@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+captchas/
+*.pyc
+.venv/
+.eggs/
+*.egg-info/
+Pipfile*
+build/
+dist/
